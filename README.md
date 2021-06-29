@@ -1,6 +1,4 @@
-### Xin chào ![1](https://user-images.githubusercontent.com/79132487/123824059-e8f11e00-d927-11eb-9b5d-82c1d183f99b.png)
-![4](https://user-images.githubusercontent.com/79132487/123824132-f7d7d080-d927-11eb-8e44-343676afa93c.png)
-![7](https://user-images.githubusercontent.com/79132487/123824148-fc03ee00-d927-11eb-9690-1302f42d9f72.png)
+### Xin chào! ![1](https://user-images.githubusercontent.com/79132487/123824059-e8f11e00-d927-11eb-9b5d-82c1d183f99b.png)![4](https://user-images.githubusercontent.com/79132487/123824132-f7d7d080-d927-11eb-8e44-343676afa93c.png)![7](https://user-images.githubusercontent.com/79132487/123824148-fc03ee00-d927-11eb-9690-1302f42d9f72.png)
 
 
 <!--
